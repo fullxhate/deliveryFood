@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1bef8a87.css",
+    "main.js": "/static/js/main.df60daf2.js",
+    "static/media/sushi.jpg": "/static/media/sushi.a2b4b921ab28b2b3f6c7.jpg",
+    "index.html": "/index.html",
+    "main.1bef8a87.css.map": "/static/css/main.1bef8a87.css.map",
+    "main.df60daf2.js.map": "/static/js/main.df60daf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bef8a87.css",
+    "static/js/main.df60daf2.js"
+  ]
+}
